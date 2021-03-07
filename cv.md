@@ -23,3 +23,27 @@
 ```js
     console.log("Hello World!");
 ```
+
+## Work Experience
+QA Engineer, iTechArt Group: _13.09.2019 - present_
+
+## Education
+### Bachelor’s degree in Journalism and social communication
+
+_The University of Wrocław, Poland_
+
+## Certificate
+* **Course:** Functional testing
+
+  _Educational Center of High-Tech Park_
+*  **Course:** Git from A to Z
+    
+    _GeekBrains [see credential](https://geekbrains.ru/certificates/997540?a33e9ccc573e1b81be469a5ac3d1e46e)_
+
+* **Course:** Software Testing Introducion 
+
+    _EPAM Systems_
+
+* **Course:** Database Basics
+
+    _Educational Center of High-Tech Park_
