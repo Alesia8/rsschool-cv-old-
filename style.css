@@ -1,0 +1,55 @@
+* {
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+    font-family: 'EB Garamond', serif;
+}
+
+main{
+    width: fit-content;
+    height: 10%;
+    margin: auto;
+    padding: 20px 50px;
+    background: linear-gradient(#f1f0f1, #dcdbdf);
+    /*box-shadow: 0 0 20px rgba(0,0,0,0.5);*/
+    box-shadow: 0 10px 10px rgba(0,0,0,0.5);
+}
+
+h1{
+    text-align: center;
+}
+
+.contact-info{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 20px;
+    border-bottom: 1px solid black;
+}
+
+.title{
+    text-align: right;
+}
+
+.contact{
+    display: flex;
+    align-items: center;
+}
+
+.cv-image{
+    width: 120px;
+    border-radius: 50%;
+}
+
+.links .contact-link{
+    text-decoration: none;
+}
+
+.subtitle{
+    padding: 0 20px;
+}
+
+.list{
+    padding-bottom: 10px;
+}
